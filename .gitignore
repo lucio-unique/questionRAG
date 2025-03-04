@@ -1,0 +1,5 @@
+*.json
+poetry.lock
+.env
+*.xlsx
+.venv
